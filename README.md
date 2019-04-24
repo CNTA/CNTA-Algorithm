@@ -7,6 +7,8 @@ _CNTA team's (Hanoi University of Science and Technology, 2012-2017) playground 
 Each problem would have a folder inside the root folder of the repo: `($repo_root)/($problem)/($hackerrank_username)`. For example:
 - `($repo_root)/2D-Array/tongtunggiang/`
 
+Every programming language is accepted, even Brainf*ck. An author can solve a problem with as many languages as he likes.
+
 In the root folder of every problem, there would be a README file with the problem's description. Folder creators (a.k.a the first one who solves a problem) should be aware of this.
 
 #### Commit instruction
